@@ -13,6 +13,60 @@ I enjoy turning ideas into real applications with **modern UI, efficient state m
 
 # 🚀 Featured Projects
 
+## 🍓 Fruits App
+
+🔗 https://github.com/manarghareeb/Fruits-App
+
+A modern e-commerce Flutter application built using Clean Architecture and Cubit for scalable and maintainable code.
+
+**Key Features**
+
+* API integration for dynamic products & categories
+* Clean Architecture (Data / Domain / Presentation)
+* State management using Cubit
+* Responsive and reusable UI components
+
+**Tech Used**  
+Flutter • Dart • REST API • Clean Architecture • Cubit
+
+---
+
+## 🗺️ Maps App
+
+🔗 https://github.com/manarghareeb/Maps-App
+
+A location-based Flutter application integrating maps and real-time navigation features.
+
+**Key Features**
+
+* Google Maps integration
+* Real-time location tracking
+* Map interaction and directions
+* Clean Architecture structure
+
+**Tech Used**  
+Flutter • Dart • Google Maps API • Location Services • Clean Architecture
+
+---
+
+## 🌙 Islamic App
+
+🔗 https://github.com/manarghareeb/Islamic-App
+
+A Flutter application providing essential Islamic features with a clean and user-friendly UI.
+
+**Key Features**
+
+* Prayer times
+* Quran & Azkar features
+* Clean UI and structured architecture
+* State management using Cubit
+
+**Tech Used**  
+Flutter • Dart • Cubit • Clean Architecture
+
+---
+
 ## 🌿 Plant Disease Detection App
 
 🔗 https://github.com/manarghareeb/plant_detection
@@ -27,7 +81,7 @@ A smart Flutter application that detects plant diseases using **Machine Learning
 * Disease diagnosis for infected plants
 * Flutter + Python (Flask API)
 
-**Tech Used**
+**Tech Used**  
 Flutter • Dart • Python • Flask • Machine Learning • Image Processing
 
 ---
@@ -46,7 +100,7 @@ A complete courier delivery system built with Flutter and Firebase.
 * Push notifications
 * Responsive UI
 
-**Tech Used**
+**Tech Used**  
 Flutter • Firebase • Cubit/Bloc • Stripe • PayPal • Firestore
 
 ---
@@ -63,44 +117,8 @@ A mobile application that analyzes energy usage and suggests optimizations using
 * AI-based optimization suggestions
 * Data visualization
 
-**Tech Used**
+**Tech Used**  
 Flutter • Dart • AI Algorithms • Data Analysis
-
----
-
-## 🛒 Store App
-
-🔗 https://github.com/manarghareeb/Store-App
-
-Multi-platform e-commerce app with API integration.
-
-**Key Features**
-
-* Product browsing
-* Cart & checkout
-* Payment gateway integration
-* API-based data fetching
-
-**Tech Used**
-Flutter • REST API • Clean Architecture • Cubit
-
----
-
-## 💬 Chat App
-
-🔗 https://github.com/manarghareeb/Chat-App
-
-Real-time messaging application.
-
-**Key Features**
-
-* Instant messaging
-* Firebase authentication
-* Real-time Firestore database
-
-**Tech Used**
-Flutter • Firebase • Cubit • Firestore
-
 ---
 
 # 🛠️ Tech Stack
